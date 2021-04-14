@@ -1,4 +1,5 @@
 ## Adafruit Sensirion SHT31-D - Temperature & Humidity Sensor PCB
+<a href="http://www.adafruit.com/products/2857"><img src="assets/2857.jpg?raw=true" width="500px"><br/>
 <a href="http://www.adafruit.com/products/2857"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
@@ -6,7 +7,7 @@ Sensirion Temperature/Humidity sensors are some of the finest & highest-accuracy
 
 Unlike earlier SHT sensors, this sensor has a true I2C interface, and (bonus!) even with two address options. It also is 3V or 5V compliant, so you can power and communicate with it using just about any microcontroller or microcomputer.
 
-Such a lovely chip - so we spun up a breakout board with the SHT31-D and some supporting circuitry such as pullup resistors and capacitors. Each order comes with one fully assembled and tested PCB breakout and a small piece of header. You'll need to solder the header onto the PCB but it's fairly easy and takes only a few minutes even for a beginner.
+To get you going fast, we spun up a custom made PCB with the SHT31-D and some supporting circuitry such as pullup resistors and capacitors, in the STEMMA QT form factor, making them easy to interface with. The STEMMA QT connectors on either side are compatible with the SparkFun Qwiic I2C connectors. This allows you to make solderless connections between your development board and the SHT31-D or to chain them with a wide range of other sensors and accessories using a compatible cable. QT Cable is not included, but we have a variety in the shop.
 
 PCB files for the Sensirion SHT31 Sensor Breakout. The format is EagleCAD schematic and board layout
 - https://www.adafruit.com/product/2857
